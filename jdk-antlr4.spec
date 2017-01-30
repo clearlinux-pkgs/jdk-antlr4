@@ -4,7 +4,7 @@
 #
 Name     : jdk-antlr4
 Version  : 4.5.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/antlr/antlr4/archive/4.5.1.tar.gz
 Source0  : https://github.com/antlr/antlr4/archive/4.5.1.tar.gz
 Summary  : No detailed summary available
@@ -35,6 +35,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-commons-validator
 BuildRequires : jdk-cssparser
 BuildRequires : jdk-doxia
